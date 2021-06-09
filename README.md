@@ -7,3 +7,4 @@ Traceroute are computer network diagnostic commands for displaying possible rout
 - [x] Add a function which tells the locations
 - [ ] Convert it into python module(NO class only functions)
 - [ ] Fix errors in some IP's
+- [ ] Make it run in other OS (Linux)
